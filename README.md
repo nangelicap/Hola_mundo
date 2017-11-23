@@ -2,4 +2,4 @@
 Mi primera prueba
 
 
-Realizando pruebas de cambios, en un bonito día soleado.
+Realizando pruebas de cambios en un bonito día soleado.
